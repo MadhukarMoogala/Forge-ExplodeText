@@ -4,3 +4,7 @@
 ![Shippable](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg)
 
 ![Alt Text](https://media.giphy.com/media/WgO7yxtbgO08AqwEKq/giphy.gif)
+# License
+
+This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Please see the [LICENSE](LICENSE) file for full details.
