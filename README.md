@@ -11,7 +11,17 @@ For using this sample, you need an Autodesk developer credentials. Visit the [Fo
 ## Run Locally
 
 Development Enviroment VS 2017 Community or Professional or Ultimate.
-.NET framework 4.6
+.NET framework 4.6.
+
+```bash
+Launch VS 2017 Developer Command from start menu
+git clone https://github.com/MadhukarMoogala/Forge-ExplodeText.git
+cd Forge-ExplodeText
+devenv .\FDA.ExplodeText\FDA.ExplodeText.sln
+```
+There is only a single variable [drawingResource](https://github.com/MadhukarMoogala/Forge-ExplodeText/blob/b483647d52649d48833a32e35211e3e6ff2d6dd1/FDA.ExplodeText/Program.cs#L269) that needs to be customized to provide your own drawing with DBTEXT entities.
+
+Please ensure provided drawing resource URL should be accessible by HTTP. This sample fetches drawing resource from [Amazon S3 Bucket](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html).
 
 Open the **app.config** file and adjust the Forge Client ID & Secret. If you plan to deploy to Appharbor, configure the variables (no need to change this web.config file).
 
@@ -21,6 +31,7 @@ Open the **app.config** file and adjust the Forge Client ID & Secret. If you pla
   <add key="FORGE_CLIENT_SECRET" value="" />
 </appSettings>
 ```
+
 # License
 
 This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
@@ -29,4 +40,5 @@ Please see the [LICENSE](LICENSE) file for full details.
 
 # Preview
 
-![Alt Text](https://media.giphy.com/media/WgO7yxtbgO08AqwEKq/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1lxjTEk10tYENlyh55/giphy.gif)
+
