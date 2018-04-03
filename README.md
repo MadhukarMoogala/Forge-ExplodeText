@@ -40,5 +40,5 @@ Please see the [LICENSE](LICENSE) file for full details.
 
 # Preview
 
-![Alt Text](https://media.giphy.com/media/1lxjTEk10tYENlyh55/giphy.gif)
+[![EXPTXT1.gif](https://s1.gifyu.com/images/EXPTXT1.gif)](https://gifyu.com/image/sRRt)
 
