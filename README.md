@@ -3,7 +3,6 @@
 [![DesignAutomation](https://img.shields.io/badge/Design%20Automation%20V2--green.svg)](https://developer.autodesk.com/en/docs/design-automation/v2)
 ![Shippable](https://img.shields.io/badge/VS2017--brightgreen.svg)
 ![Shippable](https://img.shields.io/badge/.NET-4.6-brightgreen.svg)
-![Alt Text](https://media.giphy.com/media/WgO7yxtbgO08AqwEKq/giphy.gif)
 
 # Setup
 
@@ -26,3 +25,8 @@ Open the **app.config** file and adjust the Forge Client ID & Secret. If you pla
 
 This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 Please see the [LICENSE](LICENSE) file for full details.
+
+
+# Preview
+
+![Alt Text](https://media.giphy.com/media/WgO7yxtbgO08AqwEKq/giphy.gif)
